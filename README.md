@@ -35,7 +35,7 @@ Um aplicativo web moderno para gestão de hábitos e rastreamento de progresso p
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/izanagi.git
+git clone https://github.com/shwdaniel7/izanagi.git
 cd izanagi
 ```
 
